@@ -10,7 +10,7 @@
   }
   
   body {
-    background-image: url('https://raw.githubusercontent.com/danielsarmento/Tela-de-Login/main/background.jpg');
+    background-image: src('https://raw.githubusercontent.com/danielsarmento/Tela-de-Login/main/background.jpg');
     background-size: cover;
     background-position-y: -200px;
   }
