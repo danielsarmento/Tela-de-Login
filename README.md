@@ -13,3 +13,10 @@ https://danielsarmento.github.io/Tela-de-Login/
 ##
 <p> Projeto de tela de login para site baseado em conteúdo adquirido em aula. O objetivo desse projeto foi criar uma interface de recebimento de inputs do usuário.
 
+<p align="left">
+  💌 Envie aqui uma mensagem para mim: ⤵️
+</p>
+
+<p align="left">
+
+ <a href="https://www.linkedin.com/in/danielsarmentodossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
