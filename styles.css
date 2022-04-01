@@ -10,7 +10,7 @@
   }
   
   body {
-    background: linear-gradient(60deg, white, blue);
+    background-image: url('https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-04-aluraflix-e-filmes.png');
     background-size: cover;
     background-position-y: -200px;
   }
