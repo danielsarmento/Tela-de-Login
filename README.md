@@ -11,5 +11,5 @@ https://danielsarmento.github.io/Tela-de-Login/
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
 ##
-<p> Projeto de tela de login para site baseado em conteúdo adquirido em aula. O objetivo desse projeto foi treinar o recebimento de inputs através do usuário.
+<p> Projeto de tela de login para site baseado em conteúdo adquirido em aula. O objetivo desse projeto foi criar uma interface de recebimento de inputs do usuário.
 
