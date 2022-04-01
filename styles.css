@@ -10,7 +10,7 @@
   }
   
   body {
-    background-image: url('');
+    background: linear-gradient(60deg, white, blue);
     background-size: cover;
     background-position-y: -200px;
   }
